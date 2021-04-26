@@ -20,7 +20,7 @@ client.on('message', msg => {
   }
 });
 
-client.login('ODM2MjQ0NjExMDAxMDkwMDY4.YIbLew.UO9A3UKOZxhmpn-n9BvwjGjwpsE');
+client.login('ODM2MjQ0NjExMDAxMDkwMDY4.YIbLew.rbpqaHm977C6uxWthT-gT-At3Gc');
 
 client.on('message', message => {
     if (!message.guild) return;
