@@ -1,0 +1,15 @@
+{
+  "name": "kaan",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "Başlat"
+  },
+  "keywords": [],
+  "author": "Kaan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
